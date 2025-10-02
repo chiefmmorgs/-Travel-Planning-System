@@ -1,0 +1,46 @@
+{
+  "digest": {
+    "recommendations": "\ud83c\udf0d Your Weekly Travel Digest\n\nBased on your previous trips to France and Japan, here are some personalized recommendations:\n\n\ud83d\udccd Recommended Destinations:\n1. Italy - Similar cultural richness to France with unique Mediterranean flair\n2. South Korea - Perfect next step after Japan, offering modern Asian culture\n3. Vietnam - Excellent blend of cultural experiences at a lower price point\n\n\u2708\ufe0f Planning Tips:\n\u2022 Weather looks favorable (24\u00b0C) - perfect for exploring!\n\u2022 Don't miss the upcoming Local Cultural Festival\n\u2022 Key safety reminders:\n  - Keep document copies handy\n  - Stay alert in tourist areas\n\n\ud83d\udcb0 Budget Insights:\n\u2022 Consider visiting during shoulder season for better rates\n\u2022 Look into rail passes for multiple city visits\n\u2022 Local food markets can help save on dining costs\n\n\ud83c\udf1f Unique Experiences to Consider:\n1. Cooking classes in local homes\n2. Early morning fish market tours\n3. Traditional craft workshops\n\nPro Tip: Based on your interest in France and Japan, consider focusing on destinations with strong culinary traditions for your next adventure!\n\nNeed more specific recommendations? Just let me know! \ud83c\udf1f",
+    "generated_at": "2025-10-01T16:52:58.363943"
+  },
+  "context": {
+    "history": {
+      "stats": {
+        "total_destinations": 2,
+        "unique_countries": 2,
+        "countries_list": [
+          "France",
+          "Japan"
+        ]
+      }
+    },
+    "intelligence": [
+      {
+        "intelligence": {
+          "destination": null,
+          "risk_level": "low",
+          "warnings": [],
+          "recommendations": [
+            "Stay aware of your surroundings",
+            "Keep copies of documents"
+          ],
+          "last_updated": "2025-10-01T16:52:42.964961",
+          "summary": "Pleasant weather expected throughout the week",
+          "average_temp": 24,
+          "forecast_days": 7,
+          "events": [
+            {
+              "name": "Local Cultural Festival",
+              "date": null,
+              "category": "culture",
+              "description": "Experience local traditions and cuisine"
+            }
+          ]
+        },
+        "scans_completed": 3
+      }
+    ],
+    "budget": []
+  },
+  "generated_at": "2025-10-01T16:52:58.363984"
+}

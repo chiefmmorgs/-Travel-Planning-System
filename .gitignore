@@ -1,0 +1,65 @@
+# Environment
+venv/
+env/
+.env
+*.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Data files
+data/travel_history.json
+data/user_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Backups
+*.backup
+*.backup[0-9]
+*.before_*
+*.broken
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data (optional - uncomment if you want to keep data private)
+# data/*.json
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

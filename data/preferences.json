@@ -1,0 +1,6 @@
+{
+  "preferred_climates": ["temperate", "tropical"],
+  "travel_styles": ["cultural", "adventure"],
+  "budget_range": "medium",
+  "interests": ["history", "food", "nature", "architecture"]
+}
