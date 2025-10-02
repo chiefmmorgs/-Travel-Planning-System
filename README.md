@@ -30,7 +30,7 @@ pip install -r requirements.txt
 2. Setup API Keys (Optional)
 The system works without API keys using mock data. Add keys for real-time data:
 ```
-bashcp .env.example .env
+cp .env.example .env
 nano .env
 ```
 Add your keys:
