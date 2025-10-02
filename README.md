@@ -22,6 +22,12 @@ Complete travel planning system with real-time data integration and intelligent 
 
 ### 1. Install Dependencies
 ```bash
+
+# Clone the project
+git clone https://github.com/chiefmmorgs/-Travel-Planning-System.git
+cd -Travel-Planning-System
+
+
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
